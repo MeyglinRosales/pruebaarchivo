@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1647804160 source:c:\users\mey\desktop\tercer semestre u\archivoprueba\main.cpp
+	<iostream>
+	"../persona.h"
+
+1647883435 c:\users\mey\desktop\tercer semestre u\persona.h
+
